@@ -1,16 +1,17 @@
 # > Sling tv
-DOMAIN-SUFFIX,adrta.com
-DOMAIN-SUFFIX, adsrvr.org
-cloudfront.net
-crashlytics.com
-doubleverify.com
-fwmrm.net
-innovid.com
-movetv.com
-omtrdc.net
-scorecardresearch.com
-serving-sys.com
-sling.com
-spotxchange.com
-tremorhub.com
-videoamp.com
+
+DOMAIN-SUFFIX,adrta.com,PROXY
+DOMAIN-SUFFIX,adsrvr.org,PROXY
+DOMAIN-SUFFIX,acloudfront.net,PROXY
+DOMAIN-SUFFIX,acrashlytics.com,PROXY
+DOMAIN-SUFFIX,adoubleverify.com,PROXY
+DOMAIN-SUFFIX,afwmrm.net,PROXY
+DOMAIN-SUFFIX,ainnovid.com,PROXY
+DOMAIN-SUFFIX,amovetv.com,PROXY
+DOMAIN-SUFFIX,aomtrdc.net,PROXY
+DOMAIN-SUFFIX,ascorecardresearch.com,PROXY
+DOMAIN-SUFFIX,aserving-sys.com,PROXY
+DOMAIN-SUFFIX,asling.com,PROXY
+DOMAIN-SUFFIX,aspotxchange.com,PROXY
+DOMAIN-SUFFIX,atremorhub.com,PROXY
+DOMAIN-SUFFIX,avideoamp.com,PROXY
