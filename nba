@@ -1,5 +1,5 @@
-DOMIN-SUFFIX,nba.com,PROXY
-DOMIN-SUFFIX,akamaized.net,PROXY
-DOMIN-SUFFIX,akamaihd.net,PROXY
-DOMIN-SUFFIX,neulion.com,PROXY
-DOMIN-SUFFIX,yospace.com,PROXY
+DOMAIN-SUFFIX,nba.com,PROXY
+DOMAIN-SUFFIX,akamaized.net,PROXY
+DOMAIN-SUFFIX,akamaihd.net,PROXY
+DOMAIN-SUFFIX,neulion.com,PROXY
+DOMAIN-SUFFIX,yospace.com,PROXY
